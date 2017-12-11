@@ -321,3 +321,10 @@ Z = C XOR E XOR F XOR G = 1 XOR 0 XOR 0 XOR 0 = uneven 1's and 0's = 1
 Let us now assume we want to tell our fellow spy that the enemy spy is in room 2. 2 in binary is 001 so currently the board's state is in 011 and we want it to be 001 which means we only want to change the middle bit from 1 to 0. We know that if we only want to change the middle bit represented by Y (X,Y,Z) we can change the bit represented by B because it will only alter/effect Y.
 
 So switching the second switch (B) will allow the spy to convey the encoded message.
+
+# Comclusion
+I find this work extremely exciting, stimulating and fun. I am a hard worker and fast learner and will do anything to understand and become better in what I do. I am not afraid to spend hours on end to improve anything I do. I really want this job. I find the company to be exactly what I like and the people I’ll work with seem really good in what they do and dedicated.
+
+**Thank you** for the opportunity thus far.
+
+### Charl Best
