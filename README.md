@@ -322,8 +322,8 @@ Let us now assume we want to tell our fellow spy that the enemy spy is in room 2
 
 So switching the second switch (B) will allow the spy to convey the encoded message.
 
-# Comclusion
-I find this work extremely exciting, stimulating and fun. I am a hard worker and fast learner and will do anything to understand and become better in what I do. I am not afraid to spend hours on end to improve anything I do. I really want this job. I find the company to be exactly what I like and the people I’ll work with seem really good in what they do and dedicated.
+# Conclusion
+I find this work extremely exciting, stimulating and fun. I am a hard worker and fast learner and will do anything to understand and become better in what I do. I am not afraid to spend hours on end to improve anything I do. I really want this job. I find the company to be exactly what I like and the people I’ll work with seem really good in what they do, dedicated and nice.
 
 **Thank you** for the opportunity thus far.
 
